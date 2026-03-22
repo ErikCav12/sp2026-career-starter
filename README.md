@@ -4,6 +4,17 @@ A structured guide for auditing where you stand in your career right now, clarif
 
 Today we're going to start with the basics: who are you, what do you want, where are you going, and how do you show that to the world?
 
+## Getting Started
+
+1. Clone this repo.
+2. Create a new **private** repo under your own GitHub account (e.g., `yourname/sp2026-career-starter`).
+3. Change the remote to point to your new repo instead of this one:
+   ```
+   git remote set-url origin https://github.com/yourname/sp2026-career-starter.git
+   git push -u origin main
+   ```
+4. Add [@liamdanielduffy](https://github.com/liamdanielduffy) and [@dsshimel](https://github.com/dsshimel) as collaborators on your repo so we can see your work.
+
 ## Part 1: Journaling
 
 Spend at least an hour - more if you find it useful - journaling and writing up your best answers to the questions below. There's no wrong way to do this. You can journal with pen and paper and write up your thoughts in a `.md` file afterwards, or you can ask Claude to interview you on these questions and work through them conversationally. Whatever gets you thinking honestly. At the end of your session, commit artifacts representing the results of your journaling and reflection to this repo. They don't need to be polished - as freeform as you want.
