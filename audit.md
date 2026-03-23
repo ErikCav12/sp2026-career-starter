@@ -69,6 +69,6 @@ Surfaces that contradict each other:
 
 Priority fixes (top 3):
 
-1.
+1. Sort GitHub
 2.
 3.
