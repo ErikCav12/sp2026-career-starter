@@ -6,11 +6,11 @@ Rate each item: **Good** (aligns with my story), **Gap** (missing or empty), **M
 
 ## LinkedIn
 
-- [ ] **Headline**
-- [ ] **About section**
-- [ ] **Experience descriptions**
-- [ ] **Skills list**
-- [ ] **Profile photo**
+- [X] **Headline**
+- [X] **About section**
+- [X] **Experience descriptions**
+- [X] **Skills list**
+- [X] **Profile photo**
 
 Notes:
 
@@ -19,15 +19,15 @@ Notes:
 
 ## Personal website (erikbuilds.com)
 
-- [ ] **Identity**
-- [ ] **Contact**
-- [ ] **Links to other surfaces**
-- [ ] **Core story on homepage**
-- [ ] **Projects page**
-  - [ ] Write-ups explaining what each project is and what I did
-  - [ ] Live links
-  - [ ] Links to code
-- [ ] **Vibes check**: no construction site, no ghost town
+- [X] **Identity**
+- [X] **Contact**
+- [X] **Links to other surfaces**
+- [N/A] **Core story on homepage**
+- [X] **Projects page**
+  - [X] Write-ups explaining what each project is and what I did
+  - [X] Live links
+  - [X] Links to code
+- [X] **Vibes check**: no construction site, no ghost town
 
 Notes:
 
@@ -36,10 +36,10 @@ Notes:
 
 ## Resume
 
-- [ ] **One page**
-- [ ] **Content matches story from journal and pitches**
-- [ ] **Impact bullets, not responsibility bullets**
-- [ ] **AI skills prominent**
+- [X] **One page**
+- [X] **Content matches story from journal and pitches**
+- [X] **Impact bullets, not responsibility bullets**
+- [X] **AI skills prominent**
 
 Notes:
 
